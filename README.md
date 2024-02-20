@@ -7,4 +7,6 @@ This assignment was a list of 5 task that we needed to create a program for usin
 
 Task one: We were instructed to make a program that prints "Hello, World!" 100 times.
 
-Task 2
+Task two: We were instructed to create two programs, one that prints a list of numbers one right after another, and one that prints the same list, and its square right after it. 
+
+Task 3:
